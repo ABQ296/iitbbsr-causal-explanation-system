@@ -1,0 +1,4 @@
+The models/ folder is intentionally left empty in this submission.
+This system does not rely on pre-trained machine learning models or saved model weights. Instead, it performs deterministic, data-driven causal analysis using TF-IDF-based factor extraction and structured evidence retrieval directly from the conversational dataset.
+
+The folder is included to maintain extensibility of the project structure in case future versions incorporate trained models (e.g., supervised classifiers, neural architectures, or embedding-based retrieval systems).

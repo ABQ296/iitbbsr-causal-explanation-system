@@ -1,0 +1,243 @@
+Query Id,Query,Query Category,System Output,Remarks
+1,fraud alert on my account,Fraud & Security,"Outcome Event: Fraud Alert Investigation
+
+Causal Factors:
+- Purchases Recently
+   (Transcript 1846-5500-2990-8975)
+   (Transcript 1616-8531-3291-5075)
+   (Transcript 3442-1368-8679-3086)
+- Purchases
+   (Transcript 1846-5500-2990-8975)
+   (Transcript 1616-8531-3291-5075)
+   (Transcript 3442-1368-8679-3086)
+
+Explanation:
+In conversations labeled 'Fraud Alert Investigation', customers report suspicious charges or deny recent transactions. These conversational signals correspond to cases categorized under fraud investigation within the dataset.",Success
+2,Why does Fraud Alert Investigation happen?,Fraud & Security,"Outcome Event: Fraud Alert Investigation
+
+Causal Factors:
+- Purchases Recently
+   (Transcript 1846-5500-2990-8975)
+   (Transcript 1616-8531-3291-5075)
+   (Transcript 3442-1368-8679-3086)
+- Purchases
+   (Transcript 1846-5500-2990-8975)
+   (Transcript 1616-8531-3291-5075)
+   (Transcript 3442-1368-8679-3086)
+
+Explanation:
+In conversations labeled 'Fraud Alert Investigation', customers report suspicious charges or deny recent transactions. These conversational signals correspond to cases categorized under fraud investigation within the dataset.",Success
+3,someone used my card without permission,Fraud & Security,"Outcome Event: Fraud Alert Investigation
+
+Causal Factors:
+- Purchases Recently
+   (Transcript 1846-5500-2990-8975)
+   (Transcript 1616-8531-3291-5075)
+   (Transcript 3442-1368-8679-3086)
+- Purchases
+   (Transcript 1846-5500-2990-8975)
+   (Transcript 1616-8531-3291-5075)
+   (Transcript 3442-1368-8679-3086)
+
+Explanation:
+In conversations labeled 'Fraud Alert Investigation', customers report suspicious charges or deny recent transactions. These conversational signals correspond to cases categorized under fraud investigation within the dataset.",Success
+4,login problem,Account & Authentication,"Outcome Event: Account Access Issues
+
+Causal Factors:
+- Reset
+   (Transcript 7441-4348-3458-2384)
+   (Transcript 5145-3123-6526-1425)
+   (Transcript 1189-8107-2320-9414)
+- Hold
+   (Transcript 7441-4348-3458-2384)
+   (Transcript 5145-3123-6526-1425)
+   (Transcript 1189-8107-2320-9414)
+- Credentials
+   (Transcript 7441-4348-3458-2384)
+   (Transcript 1189-8107-2320-9414)
+   (Transcript 4237-9670-9254-4131)
+
+Explanation:
+In 'Account Access Issues' cases, customers describe login failures or security holds following credential resets. These access restrictions correspond to account access issue categorization.",Success
+5,Why am I unable to access my account?,Account & Authentication,"Outcome Event: Account Access Issues
+
+Causal Factors:
+- Reset
+   (Transcript 7441-4348-3458-2384)
+   (Transcript 5145-3123-6526-1425)
+   (Transcript 1189-8107-2320-9414)
+- Hold
+   (Transcript 7441-4348-3458-2384)
+   (Transcript 5145-3123-6526-1425)
+   (Transcript 1189-8107-2320-9414)
+- Credentials
+   (Transcript 7441-4348-3458-2384)
+   (Transcript 1189-8107-2320-9414)
+   (Transcript 4237-9670-9254-4131)
+
+Explanation:
+In 'Account Access Issues' cases, customers describe login failures or security holds following credential resets. These access restrictions correspond to account access issue categorization.",Success
+6,account locked after password reset,Account & Authentication,"Outcome Event: Account Access Issues
+
+Causal Factors:
+- Reset
+   (Transcript 7441-4348-3458-2384)
+   (Transcript 5145-3123-6526-1425)
+   (Transcript 1189-8107-2320-9414)
+- Hold
+   (Transcript 7441-4348-3458-2384)
+   (Transcript 5145-3123-6526-1425)
+   (Transcript 1189-8107-2320-9414)
+- Credentials
+   (Transcript 7441-4348-3458-2384)
+   (Transcript 1189-8107-2320-9414)
+   (Transcript 4237-9670-9254-4131)
+
+Explanation:
+In 'Account Access Issues' cases, customers describe login failures or security holds following credential resets. These access restrictions correspond to account access issue categorization.",Success
+7,delivery missing,Logistics & Operations,"Outcome Event: Delivery Investigation
+
+Causal Factors:
+- Shows
+   (Transcript 6794-8660-4606-3216)
+   (Transcript 3240-6559-2310-6416)
+   (Transcript 9295-7772-7972-4826)
+- Delivered
+   (Transcript 6794-8660-4606-3216)
+   (Transcript 3240-6559-2310-6416)
+   (Transcript 9295-7772-7972-4826)
+- Shows Delivered
+   (Transcript 6794-8660-4606-3216)
+   (Transcript 3240-6559-2310-6416)
+   (Transcript 9295-7772-7972-4826)
+
+Explanation:
+For 'Delivery Investigation', customers describe orders marked as delivered but not physically received. This reported discrepancy leads to classification as a delivery investigation.",Success
+8,Why does Delivery Investigation occur?,Logistics & Operations,"Outcome Event: Delivery Investigation
+
+Causal Factors:
+- Shows
+   (Transcript 6794-8660-4606-3216)
+   (Transcript 3240-6559-2310-6416)
+   (Transcript 9295-7772-7972-4826)
+- Delivered
+   (Transcript 6794-8660-4606-3216)
+   (Transcript 3240-6559-2310-6416)
+   (Transcript 9295-7772-7972-4826)
+- Shows Delivered
+   (Transcript 6794-8660-4606-3216)
+   (Transcript 3240-6559-2310-6416)
+   (Transcript 9295-7772-7972-4826)
+
+Explanation:
+For 'Delivery Investigation', customers describe orders marked as delivered but not physically received. This reported discrepancy leads to classification as a delivery investigation.",Success
+9,package shows delivered but not received,Logistics & Operations,"Outcome Event: Delivery Investigation
+
+Causal Factors:
+- Shows
+   (Transcript 6794-8660-4606-3216)
+   (Transcript 3240-6559-2310-6416)
+   (Transcript 9295-7772-7972-4826)
+- Delivered
+   (Transcript 6794-8660-4606-3216)
+   (Transcript 3240-6559-2310-6416)
+   (Transcript 9295-7772-7972-4826)
+- Shows Delivered
+   (Transcript 6794-8660-4606-3216)
+   (Transcript 3240-6559-2310-6416)
+   (Transcript 9295-7772-7972-4826)
+
+Explanation:
+For 'Delivery Investigation', customers describe orders marked as delivered but not physically received. This reported discrepancy leads to classification as a delivery investigation.",Success
+10,repeated service failures,Customer Escalation,"Outcome Event: Escalation - Repeated Service Failures
+
+Causal Factors:
+- Help
+   (Transcript 7034-5430-2980-5483)
+   (Transcript 4967-8141-1813-8658)
+   (Transcript 3631-7868-1079-2880)
+- Different
+   (Transcript 7034-5430-2980-5483)
+   (Transcript 4967-8141-1813-8658)
+   (Transcript 3631-7868-1079-2880)
+
+Explanation:
+The outcome 'Escalation - Repeated Service Failures' is associated with repeated service complaints or unresolved issues expressed in conversations, leading to escalation classification.",Success
+11,Why does Escalation - Repeated Service Failures happen?,Customer Escalation,"Outcome Event: Escalation - Repeated Service Failures
+
+Causal Factors:
+- Help
+   (Transcript 7034-5430-2980-5483)
+   (Transcript 4967-8141-1813-8658)
+   (Transcript 3631-7868-1079-2880)
+- Different
+   (Transcript 7034-5430-2980-5483)
+   (Transcript 4967-8141-1813-8658)
+   (Transcript 3631-7868-1079-2880)
+
+Explanation:
+The outcome 'Escalation - Repeated Service Failures' is associated with repeated service complaints or unresolved issues expressed in conversations, leading to escalation classification.",Success
+12,threat of legal action,Customer Escalation,"Outcome Event: Escalation - Threat of Legal Action
+
+Causal Factors:
+- Patient
+   (Transcript 3883-8555-9747-5746)
+   (Transcript 4471-5440-7427-7835)
+   (Transcript 2717-1088-7257-7370)
+- Time
+   (Transcript 3883-8555-9747-5746)
+   (Transcript 5405-1959-8150-2620)
+   (Transcript 4471-5440-7427-7835)
+- Manager
+   (Transcript 3883-8555-9747-5746)
+   (Transcript 5405-1959-8150-2620)
+   (Transcript 4471-5440-7427-7835)
+
+Explanation:
+The outcome 'Escalation - Threat of Legal Action' is associated with repeated service complaints or unresolved issues expressed in conversations, leading to escalation classification.",Success
+13,system outage affecting payments,General Service Issue,"Outcome Event: Service Interruptions
+
+Causal Factors:
+- Light
+   (Transcript 1629-4503-4766-7087)
+   (Transcript 6979-7103-8775-2134)
+   (Transcript 5918-5582-1034-7021)
+- Power
+   (Transcript 1629-4503-4766-7087)
+   (Transcript 6979-7103-8775-2134)
+   (Transcript 5918-5582-1034-7021)
+
+Explanation:
+The outcome 'Service Interruptions' is preceded by conversational signals such as Light, Power, which are consistently observed in the dataset.",Success
+14,Why does Business Event - System Outage occur?,General Service Issue,"Outcome Event: Service Interruptions
+
+Causal Factors:
+- Light
+   (Transcript 1629-4503-4766-7087)
+   (Transcript 6979-7103-8775-2134)
+   (Transcript 5918-5582-1034-7021)
+- Power
+   (Transcript 1629-4503-4766-7087)
+   (Transcript 6979-7103-8775-2134)
+   (Transcript 5918-5582-1034-7021)
+
+Explanation:
+The outcome 'Service Interruptions' is preceded by conversational signals such as Light, Power, which are consistently observed in the dataset.",Success
+15,Why was my account put on a security hold after I reset my credentials?,Account & Authentication,"Outcome Event: Account Access Issues
+
+Causal Factors:
+- Reset
+   (Transcript 7441-4348-3458-2384)
+   (Transcript 5145-3123-6526-1425)
+   (Transcript 1189-8107-2320-9414)
+- Hold
+   (Transcript 7441-4348-3458-2384)
+   (Transcript 5145-3123-6526-1425)
+   (Transcript 1189-8107-2320-9414)
+- Credentials
+   (Transcript 7441-4348-3458-2384)
+   (Transcript 1189-8107-2320-9414)
+   (Transcript 4237-9670-9254-4131)
+
+Explanation:
+In 'Account Access Issues' cases, customers describe login failures or security holds following credential resets. These access restrictions correspond to account access issue categorization.",Success
